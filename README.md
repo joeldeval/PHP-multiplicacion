@@ -1,2 +1,4 @@
-P4TareaPHP1
+Variables en PHP
 ===========
+
+Ejemplo en PHP para usar tipos de variables 
