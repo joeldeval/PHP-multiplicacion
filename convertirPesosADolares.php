@@ -6,7 +6,7 @@
 <body>
 <?php
 $dolares=10;
-$tasa=15.5;
+$tasa=19.2;
 $pesos= $dolares*$tasa;
 echo $pesos;
 ?>
